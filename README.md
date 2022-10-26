@@ -6,8 +6,8 @@ output of gitlog
 
 output of git remote
 
-![Alt text](/EXERCISE5/gitremote-v.png "Optional Title")
+![Alt text](/EXERCISE5/gitremote.png "Optional Title")
 
 output of git config
-![Alt text](/EXERCISE5/gitconfig-l.png "Optional Title")
+![Alt text](/EXERCISE5/gitconfig.png "Optional Title")
 
